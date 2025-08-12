@@ -33,5 +33,3 @@ Karen emphasizes three key points:
 1. Your previous experience isn't wasted - it's your unique value proposition
 2. Consistency beats intensity - daily practice trumps weekend marathons
 3. Build projects that solve real problems you understand
-
-*This article originally appeared on [Le Wagon Blog](https://blog.lewagon.com/career/karens-journey-into-tech-mastering-data-analytics-at-le-wagon/)*

@@ -31,19 +31,19 @@ export default function About() {
             This blog is a demonstration of how you can leverage AI to access codebases built in a different stack than you're used to. This block is build in:
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 my-6">
-            <div className="bg-gray-50 p-4 rounded-lg">
+            <div className="bg-gray-100 p-4 rounded-lg">
               <h3 className="font-semibold text-gray-900 mb-2">Next.js 14</h3>
               <p className="text-sm">App Router, Server Components, and optimized performance</p>
             </div>
-            <div className="bg-gray-50 p-4 rounded-lg">
+            <div className="bg-gray-100 p-4 rounded-lg">
               <h3 className="font-semibold text-gray-900 mb-2">Tailwind CSS</h3>
               <p className="text-sm">Utility-first CSS for rapid design</p>
             </div>
-            <div className="bg-gray-50 p-4 rounded-lg">
+            <div className="bg-gray-100 p-4 rounded-lg">
               <h3 className="font-semibold text-gray-900 mb-2">Markdown</h3>
               <p className="text-sm">Simple content management with frontmatter metadata</p>
             </div>
-            <div className="bg-gray-50 p-4 rounded-lg">
+            <div className="bg-gray-100 p-4 rounded-lg">
               <h3 className="font-semibold text-gray-900 mb-2">React</h3>
               <p className="text-sm">Component-based architecture for front-end code</p>
             </div>

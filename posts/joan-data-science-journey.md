@@ -28,5 +28,3 @@ Within months, Joan was implementing machine learning models at work, automating
 "The hardest part wasn't the technical concepts," Joan reflects. "It was maintaining momentum when work got busy. But seeing immediate applications of what I learned kept me motivated."
 
 His advice for others considering a similar path: "Don't wait for the perfect time. Start where you are, use what you have, and do what you can."
-
-*This article originally appeared on [Le Wagon Blog](https://blog.lewagon.com/graduate-stories/part-time-data-science-bootcamp-working-full-time-barcelona/)*

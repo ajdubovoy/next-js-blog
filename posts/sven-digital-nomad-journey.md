@@ -43,5 +43,3 @@ Sven's hard-earned wisdom includes:
 ## Is It Sustainable?
 
 Two years in, Sven has transitioned from freelancing to leading a remote data team for a startup. "Digital nomadism taught me self-discipline and communication skills that make me a better remote leader."
-
-*This article originally appeared on [Le Wagon Blog](https://blog.lewagon.com/graduate-stories/tokyo-digital-nomad/)*

@@ -31,5 +31,3 @@ Your non-tech experience is actually an asset. Companies value professionals who
 ## Getting Started
 
 Consider bootcamps, online courses, or self-study paths that align with your career goals. The Spanish tech community is notably supportive, with numerous meetups, networking events, and mentorship programs available.
-
-*This article originally appeared on [Le Wagon Blog](https://blog.lewagon.com/skills/tech-career-guide-spain-2025/)*

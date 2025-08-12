@@ -57,17 +57,17 @@ export default async function BlogPost({ params }) {
 
       <div 
         className="prose prose-lg max-w-none 
-        prose-headings:text-gray-900 prose-headings:font-bold
-        prose-h1:text-3xl prose-h1:mb-6 prose-h1:mt-8 prose-h1:border-b prose-h1:border-gray-200 prose-h1:pb-2
-        prose-h2:text-2xl prose-h2:mb-4 prose-h2:mt-8 prose-h2:font-bold prose-h2:text-gray-800
-        prose-h3:text-xl prose-h3:mb-3 prose-h3:mt-6 prose-h3:font-semibold prose-h3:text-gray-800
-        prose-h4:text-lg prose-h4:mb-2 prose-h4:mt-4 prose-h4:font-medium prose-h4:text-gray-800
-        prose-p:text-gray-700 prose-p:leading-7 prose-p:mb-4
-        prose-a:text-red-500 prose-a:no-underline hover:prose-a:underline prose-a:font-medium
-        prose-strong:text-gray-900 prose-strong:font-semibold
-        prose-ul:my-4 prose-li:my-1
-        prose-code:text-red-600 prose-code:bg-red-50 prose-code:px-1 prose-code:py-0.5 prose-code:rounded prose-code:text-sm
-        prose-pre:bg-gray-900 prose-pre:text-gray-100
+        [&_h1]:text-gray-900 [&_h1]:font-bold [&_h2]:text-gray-900 [&_h2]:font-bold [&_h3]:text-gray-900 [&_h3]:font-bold [&_h4]:text-gray-900 [&_h4]:font-bold [&_h5]:text-gray-900 [&_h5]:font-bold [&_h6]:text-gray-900 [&_h6]:font-bold
+        [&_h1]:text-3xl [&_h1]:mb-6 [&_h1]:mt-8 [&_h1]:border-b [&_h1]:border-gray-200 [&_h1]:pb-2
+        [&_h2]:text-2xl [&_h2]:mb-4 [&_h2]:mt-8 [&_h2]:font-bold [&_h2]:text-gray-800
+        [&_h3]:text-xl [&_h3]:mb-3 [&_h3]:mt-6 [&_h3]:font-semibold [&_h3]:text-gray-800
+        [&_h4]:text-lg [&_h4]:mb-2 [&_h4]:mt-4 [&_h4]:font-medium [&_h4]:text-gray-800
+        [&_p]:text-gray-700 [&_p]:leading-7 [&_p]:mb-4
+        [&_a]:text-red-500 [&_a]:no-underline hover:[&_a]:underline [&_a]:font-medium
+        [&_strong]:text-gray-900 [&_strong]:font-semibold
+        [&_ul]:list-disc [&_ul]:pl-6 [&_ul]:my-4 [&_li]:my-1
+        [&_code]:text-red-600 [&_code]:bg-red-50 [&_code]:px-1 [&_code]:py-0.5 [&_code]:rounded [&_code]:text-sm
+        [&_pre]:bg-gray-900 [&_pre]:text-gray-100
         [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-gray-800 [&_h2]:mt-8 [&_h2]:mb-4
         [&_h3]:text-xl [&_h3]:font-semibold [&_h3]:text-gray-800 [&_h3]:mt-6 [&_h3]:mb-3"
         dangerouslySetInnerHTML={{ __html: post.contentHtml }}

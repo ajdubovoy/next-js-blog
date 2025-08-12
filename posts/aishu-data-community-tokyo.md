@@ -38,5 +38,3 @@ Aishu credits her bootcamp experience for more than technical skills: "Le Wagon 
 ## Looking Forward
 
 DataMinds continues to expand, with plans for an AI ethics workshop series and a women in data science initiative launching next quarter.
-
-*This article originally appeared on [Le Wagon Blog](https://blog.lewagon.com/graduate-stories/community-data-ai-tokyo/)*
